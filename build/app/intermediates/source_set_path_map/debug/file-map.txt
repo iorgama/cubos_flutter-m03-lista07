@@ -1,0 +1,12 @@
+com.example.sports_gym.app-jetified-window-1.0.0-beta04-0 C:\Users\iorga\.gradle\caches\transforms-3\48bbc73c6f591b7ba15e099719af20b2\transformed\jetified-window-1.0.0-beta04\res
+com.example.sports_gym.app-jetified-annotation-experimental-1.1.0-1 C:\Users\iorga\.gradle\caches\transforms-3\53fff5b8c8c1c7c40818128cc24153ae\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.sports_gym.app-jetified-window-java-1.0.0-beta04-2 C:\Users\iorga\.gradle\caches\transforms-3\5df0641ab4ffdc59aab79f1192dd4a74\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.sports_gym.app-core-1.6.0-3 C:\Users\iorga\.gradle\caches\transforms-3\b990b89e1fb4ba2ee10eb1b6ae4e3d26\transformed\core-1.6.0\res
+com.example.sports_gym.app-debug-4 D:\Projeto Dart\aula01\lista_exercicio_06\android\app\src\debug\res
+com.example.sports_gym.app-main-5 D:\Projeto Dart\aula01\lista_exercicio_06\android\app\src\main\res
+com.example.sports_gym.app-pngs-6 D:\Projeto Dart\aula01\lista_exercicio_06\build\app\generated\res\pngs\debug
+com.example.sports_gym.app-resValues-7 D:\Projeto Dart\aula01\lista_exercicio_06\build\app\generated\res\resValues\debug
+com.example.sports_gym.app-rs-8 D:\Projeto Dart\aula01\lista_exercicio_06\build\app\generated\res\rs\debug
+com.example.sports_gym.app-mergeDebugResources-9 D:\Projeto Dart\aula01\lista_exercicio_06\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.sports_gym.app-mergeDebugResources-10 D:\Projeto Dart\aula01\lista_exercicio_06\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.sports_gym.app-merged_res-11 D:\Projeto Dart\aula01\lista_exercicio_06\build\app\intermediates\merged_res\debug

@@ -1,0 +1,4 @@
+class Images {
+  static const paw =
+      'https://camo.githubusercontent.com/4b783104cc582931f87054bdaa2d0f9353d5a210ef7f772420928c1501f54f22/68747470733a2f2f692e696d6775722e636f6d2f654641723551582e706e67';
+}
